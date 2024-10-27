@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm just starting out in Computer Science and am exploring my interests. 
+- I'm looking to learn frontend development over the winter break 💻
+- Fun fact: I love eating crabs! 🦀 
 
 <!--
 **matthew-ngzc/matthew-ngzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
